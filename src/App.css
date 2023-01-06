@@ -7,28 +7,3 @@ body {
   position: relative;
   text-align: center;
 }
-
-svg {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-}
-
-rect {
-  opacity: 1;
-  cursor: pointer;
-}
-
-.tooltip {
-  position: absolute;
-  padding: 10px;
-  border-radius: 3px;
-  overflow: hidden;
-  background-color: #ededed;
-  width: 100px;
-  font-size: 12px;
-  box-sizing: border-box;
-  box-shadow: 1px 1px 10px #777;
-}

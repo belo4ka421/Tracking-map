@@ -1,0 +1,23 @@
+.tooltip {
+  position: absolute;
+  padding: 10px;
+  border-radius: 3px;
+  overflow: hidden;
+  background-color: #ededed;
+  width: 200px;
+  font-size: 18px;
+  box-sizing: border-box;
+  box-shadow: 1px 1px 10px #777;
+}
+
+.tooltip__name {
+  margin-bottom: 10px;
+}
+
+.tooltip__mail {
+  margin-bottom: 10px;
+}
+.avatar {
+  width: 150px;
+  height: 150px;
+}

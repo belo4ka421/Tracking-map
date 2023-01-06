@@ -1,0 +1,15 @@
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+rect {
+  opacity: 0;
+  cursor: pointer;
+}
+rect:hover {
+  opacity: 0.6;
+}

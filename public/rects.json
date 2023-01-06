@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "width": "17",
+    "height": "8",
+    "x": "54",
+    "y": "97",
+    "fill": "yellow"
+  },
+  {
+    "id": 2,
+    "width": "8",
+    "height": "17",
+    "x": "54",
+    "y": "80",
+    "fill": "yellow"
+  },
+  {
+    "id": 3,
+    "width": "8",
+    "height": "17",
+    "x": "54",
+    "y": "63",
+    "fill": "yellow"
+  }
+]

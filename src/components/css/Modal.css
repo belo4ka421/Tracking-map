@@ -1,0 +1,27 @@
+.modal__content {
+  position: absolute;
+  padding: 10px;
+  border-radius: 3px;
+  overflow: hidden;
+  background-color: #ededed;
+  width: fit-content;
+  font-size: 18px;
+  box-sizing: border-box;
+  box-shadow: 1px 1px 10px #777;
+}
+
+.modal__name {
+  margin-bottom: 10px;
+}
+.modal__img {
+  width: 150px;
+  height: 150px;
+}
+
+.modal__close {
+  margin-top: 10px;
+}
+
+.modal__close-btn {
+  cursor: pointer;
+}

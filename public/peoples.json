@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Корниенко Максим",
+    "mail": "m.kornienco@maximaster.ru",
+    "imgUrl": "./logo/avatar1.jpg",
+    "info": ""
+  },
+  {
+    "id": 2,
+    "name": "",
+    "mail": "",
+    "imgUrl": ""
+  },
+  {
+    "id": 3,
+    "name": "Бибиков Алексей ",
+    "mail": "a.bibikov@maximaster.ru",
+    "imgUrl": "./logo/avatar2.jpg",
+    "info": "Intel Core i3-4170 3.7GHz 4x4Gb DDR3 SSD 256Gb Kubuntu Samsung SyncMaster S22A100N 21.5 16:9 1080p"
+  }
+]
